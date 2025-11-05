@@ -9,13 +9,21 @@ This project demonstrates the complete BI development lifecycle from requirement
 ## Key Performance Indicators (KPIs):
 
 Total Sales – Measures the overall revenue generated across all items and outlets.
+
 Average Sales – Calculates average revenue per transaction or item sold.
+
 Number of Items Sold – Tracks total count of unique products sold.
+
 Average Rating – Evaluates customer satisfaction based on product feedback.
+
 Sales by Fat Content – Analyzes revenue variation by nutritional composition (Low Fat, Regular Fat).
+
 Sales by Item Type – Identifies best-performing product categories.
+
 Sales by Outlet Size & Location – Correlates store size and geography with sales volume.
+
 Sales by Establishment Type – Measures influence of outlet age or establishment category on performance.
+
 
 ## Business Insights:
 
