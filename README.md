@@ -28,8 +28,13 @@ Sales by Establishment Type – Measures influence of outlet age or establishmen
 ## Business Insights:
 
 Identified high-revenue categories and fat-content types driving overall sales growth.
+
 Detected under-performing outlet types through comparative sales and customer-rating analysis.
+
 Optimized inventory distribution by visualizing product-level sales by outlet size and location.
+
 Enhanced revenue forecasting accuracy with KPI-based trend tracking in Power BI.
+
 Improved marketing and pricing strategy using outlet-wise performance and customer satisfaction metrics.
+
 Streamlined decision-making for management through an interactive, insight-driven Power BI dashboard.
